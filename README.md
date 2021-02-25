@@ -7,3 +7,6 @@ The data I scrape is from the Skills Matrix section. The Skills Matrix is a sect
 I wanted to get this data as a way of benchmarking my knowleged agains the overall of the company (for a progession interview process).
 
 I am not including these analysis as it might contain PII data. However, I am also including a Word Cloud a included as part of the analysis and visualization on the data with the most important skills
+
+![](wordcloud.png)
+
